@@ -7,6 +7,4 @@ function displayPlan() {
   $lis[0].textContent = step1
   $lis[1].textContent = step2
   $lis[2].textContent = step3
-
-  console.log("h")
 }
